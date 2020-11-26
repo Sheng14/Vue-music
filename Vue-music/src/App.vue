@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import MHeader from './components/m-header/m-header.vue'
-import Tab from './components/tab/tab.vue'
+import MHeader from '../src/components/m-header/m-header'
+import Tab from '../src/components/tab/tab'
 
 export default {
   components: {
